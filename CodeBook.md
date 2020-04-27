@@ -1,5 +1,5 @@
 <h1>Code Book</h1>
--------------------
+
 
 <h2>Project</h2>
 
@@ -34,6 +34,6 @@ Finally, before obtening the result, I melted the `activity` and `subject` in or
 The final file should create by itself in the repository with the code, and it should be named "tidydata.txt".
 
 <h2>Links</h2>
-Here is a link to my repository : <p>[https://github.com/AntoninPrunet/Getting-and-Cleaning-Data](https://github.com/AntoninPrunet/Getting-and-Cleaning-Data)</p>
-<p>Here is the link to my script : [run_analysis.R](https://github.com/AntoninPrunet/Getting-and-Cleaning-Data/blob/master/run_analysis.R)</p>
-And here is the link to the ReadMe page : [Read me](https://github.com/AntoninPrunet/Getting-and-Cleaning-Data/blob/master/README.md)
+Here is a link to my repository : [https://github.com/AntoninPrunet/Getting-and-Cleaning-Data](https://github.com/AntoninPrunet/Getting-and-Cleaning-Data)
+<p>Here is the link to my script : [run_analysis.R](https://github.com/AntoninPrunet/Getting-and-Cleaning-Data/blob/master/run_analysis.R) </p>
+<p>And here is the link to the ReadMe page : [Read me](https://github.com/AntoninPrunet/Getting-and-Cleaning-Data/blob/master/README.md) </p>
